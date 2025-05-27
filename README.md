@@ -23,9 +23,9 @@
     </a>
   </section>
 
-  <h3>Hello, My name is Building Hyperstitions:</h3>
+  <h3>Hello, My name is ζ(s) = ∑ₙ₌₁^∞ 1/nˢ.</h3>
 
-  <p>Computer Science researcher specialised in Artificial Intelligence and Low Level Language Programming & Computer Theory. I go by Building Hyperstitions online. Hobbies include competitive programming, music and photography. Overly interested in a wide range of technical topics.</p>
+  <p>Computer Science researcher specialised in Artificial Intelligence and Low Level Language Programming & Computer Theory. I go by ζ(s) = ∑ₙ₌₁^∞ 1/nˢ. online. Hobbies include competitive programming, music and photography. Overly interested in a wide range of technical topics.</p>
 </section>
 
 <section>
